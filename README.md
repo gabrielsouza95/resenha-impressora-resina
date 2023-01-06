@@ -49,6 +49,11 @@ Como pode ser observado no [vídeo][impressao-resina-specs], após a impressão 
 
 Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina é liquida e está sendo exposta à luz UV pela tela para ser endurecida, as vezes um pouco de luz escapa o local de impressão ou com o movimento da plataforma, pequenos pedaços de resina endurecida podem se soltar e ficar flutuando. Não apenas esses pedaços pode estragar uma próxima impressão, como podem ficar se acumulando, então para podermos guardar o material que sobra e retirarmos esses pedaços indejedados, precisamos de um funil para guardarmos de volta e filtrar os pequenos detritos
 
+---
+## Extra links/Menções honrosas
+- [Elegoo Saturn][elegoo-saturn-specs]
+- [Phrozen Sonic Mighty 4k][sonic-mighty-specs]
+
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
 [preco-halot]: https://www.amazon.com.br/Impressora-Creality-RESINA-Halot-One-CL-60/dp/B09733ZZ13?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25NPO17M9AWC1&dchild=1&keywords=impressora+3d&qid=1631011144&s=computers&sprefix=Impressora+3,computers,337&sr=1-49&ufe=app_do:amzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&linkCode=sl1&tag=ricardoquecri-20&linkId=fba445097b2883ce6b78431a8d9c4797&language=pt_BR&ref_=as_li_ss_tl
 [photon-mono-x-specs]: https://all3dp.com/1/anycubic-photon-mono-x-review-3d-printer-specs-2/
@@ -58,3 +63,5 @@ Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina
 [preco-alcool-iso]: https://www.amazon.com.br/dp/B0BG6CSJ2W/ref=sspa_dk_detail_4?psc=1p13NParams&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMzk3U1ROTVZGV1lLJmVuY3J5cHRlZElkPUEwNDQzNzEzMk9KNDM2WUpJVTRBSyZlbmNyeXB0ZWRBZElkPUExMDM5NjQ3MlhWT0pRTjkySDAyTyZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
 [preco-resina]: https://www.amazon.com.br/Resina-3D-para-Impressora-Cinza/dp/B097TSB8CM/ref=d_pd_sbs_sccl_3_1/130-4263357-2179723?pd_rd_w=zOjP3&content-id=amzn1.sym.d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_p=d5ffa5eb-c14b-4098-a3c1-e33e4cc20b5c&pf_rd_r=9KQ8NRMR9A2ZV65B21YP&pd_rd_wg=EaVcZ&pd_rd_r=aaa2e5d5-dd5c-4d7c-a19b-805529195f56&pd_rd_i=B097TSB8CM&th=1
 [preco-funil-filtro]: https://www.amazon.com.br/inoxid%C3%A1vel-Sovol-filtro-l%C3%ADquido-impress%C3%A3o/dp/B094JD7T7V/ref=d_pd_day0_sccl_2_1/130-4263357-2179723?pd_rd_w=dHSOc&content-id=amzn1.sym.f8fbb395-09a0-46a4-a17c-8f7cd5155e6a&pf_rd_p=f8fbb395-09a0-46a4-a17c-8f7cd5155e6a&pf_rd_r=AMB5R0ERM2BANG7MQR4A&pd_rd_wg=yuXSf&pd_rd_r=b0f0ec54-da93-4b15-bb39-dc50a9956138&pd_rd_i=B094JD7T7V&psc=1
+[elegoo-saturn-specs]: https://all3dp.com/1/elegoo-saturn-review-the-specs/
+[sonic-mighty-specs]: https://all3dp.com/1/phrozen-sonic-mighty-4k-review-3d-printer-specs/
