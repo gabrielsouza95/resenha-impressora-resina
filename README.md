@@ -36,14 +36,17 @@
 
 ## Material para impressão
 [Resina Cinza 500g/1,18L R$221,96 06/01/2023][preco-resina]
-- Para começarmos a imprimir com resina precisamos... de resina rs então é necessário que seja adquirido o material para podermos começar.
+
+Para começarmos a imprimir com resina precisamos... de resina rs então é necessário que seja adquirido o material para podermos começar.
 
 ## Máquina para curar as peças
 [AnyCubic Wash and Cure 2.0 R$1350,00 06/01/2023][preco-wash-and-cure]
+
 Como pode ser observado no [vídeo][impressao-resina-specs], após a impressão feita numa impressora DLP/SLA a peça ainda não está pronta para uso, pois é necessário limpar o excesso de resina e depois toda a resina precisa ser endurecida. Assim sendo necessário um banho na peça com [álcool isopopílico (R$139,00 06/01/2023)][preco-alcool-iso] e após isso, ela precisa ficar exposta à uma fonte de luz UV para a cura e endurecimento total da resina.
 
 ## Meio para reaproveitarmos a resina que não foi totalmente utilizada
 [Funil/Filtro para Resina R$80,99 06/01/2023][preco-funil-filtro]
+
 Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina é liquida e está sendo exposta à luz UV pela tela para ser endurecida, as vezes um pouco de luz escapa o local de impressão ou com o movimento da plataforma, pequenos pedaços de resina endurecida podem se soltar e ficar flutuando. Não apenas esses pedaços pode estragar uma próxima impressão, como podem ficar se acumulando, então para podermos guardar o material que sobra e retirarmos esses pedaços indejedados, precisamos de um funil para guardarmos de volta e filtrar os pequenos detritos
 
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
