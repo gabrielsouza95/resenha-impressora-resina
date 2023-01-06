@@ -54,7 +54,7 @@ Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina
 
 [Opção de luva reutilizável 2 1un R$3,79][preco-luva-2]
 
-[Opção de luva descastável 100un R$28,00][preco-luva-3]
+[Opção de luva descastável 1cx(100un) R$28,00][preco-luva-3]
 
 [Máscara PFF2 1un R$2,50][preco-mascara]
 
