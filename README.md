@@ -51,8 +51,11 @@ Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina
 
 ## Proteção para manusear as peças de resina
 [Opção de luva reutilizável 1 1un R$6,50][preco-luva-1]
+
 [Opção de luva reutilizável 2 1un R$3,79][preco-luva-2]
+
 [Opção de luva descastável 100un R$28,00][preco-luva-3]
+
 [Máscara PFF2 1un R$2,50][preco-mascara]
 
 Quando se trata de impressão e manuseio de resina, são necessários cuidados, tanto respiratório, por meio de máscaras que protejam contra o forte odor e os gases provenientes da resina, como proteção para as mãos, por meio de luvas, pois, apesar de já existirem resinas eco, ainda assim é aconselhável que n
