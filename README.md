@@ -49,10 +49,40 @@ Como pode ser observado no [vídeo][impressao-resina-specs], após a impressão 
 
 Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina é liquida e está sendo exposta à luz UV pela tela para ser endurecida, as vezes um pouco de luz escapa o local de impressão ou com o movimento da plataforma, pequenos pedaços de resina endurecida podem se soltar e ficar flutuando. Não apenas esses pedaços pode estragar uma próxima impressão, como podem ficar se acumulando, então para podermos guardar o material que sobra e retirarmos esses pedaços indejedados, precisamos de um funil para guardarmos de volta e filtrar os pequenos detritos
 
+## Proteção para manusear as peças de resina
+[Opção de luva reutilizável 1 1un R$6,50][preco-luva-1]
+[Opção de luva reutilizável 2 1un R$3,79][preco-luva-2]
+[Opção de luva descastável 100un R$28,00][preco-luva-3]
+[Máscara PFF2 1un R$2,50][preco-mascara]
+
+Quando se trata de impressão e manuseio de resina, são necessários cuidados, tanto respiratório, por meio de máscaras que protejam contra o forte odor e os gases provenientes da resina, como proteção para as mãos, por meio de luvas, pois, apesar de já existirem resinas eco, ainda assim é aconselhável que n
+
+## Scanner 3D
+[Creality CR-SCAN 01 com base giratória R$3.464,82 06/01/2023][preco-cr-01]
+
+Algumas vezes, para facilitar a modelagem de alguns modelos complexos ou que exigem alta precisão, precisamos recorrer ao scan-3D para nos auxiliar. Por isso, é uma ferramenta essencial quando se trata de se ter meios de realizar uma vasta variedade de projetos.
+Segue dados do scanner CR-SCAN 01:
+
+### Precisão de scan
+
+up to 0.1 mm
+
+### Tecnologia utilizada para fazer a varredura
+
+[Luz Estruturada][luz-estruct]
+
+### Área máxima de scan
+
+378 x 536 mm
+[Clique aqui para mais informações sobre o produto.][cr-01-specs]
+
+
 ---
-## Extra links/Menções honrosas
+## Menções honrosas
 - [Elegoo Saturn][elegoo-saturn-specs]
 - [Phrozen Sonic Mighty 4k][sonic-mighty-specs]
+- [Segunda opção de compra do CR-SCAN 01 sem base giratória R$4199,99 06/01/2023][preco-cr-01-2]
+
 
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
 [preco-halot]: https://www.amazon.com.br/Impressora-Creality-RESINA-Halot-One-CL-60/dp/B09733ZZ13?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25NPO17M9AWC1&dchild=1&keywords=impressora+3d&qid=1631011144&s=computers&sprefix=Impressora+3,computers,337&sr=1-49&ufe=app_do:amzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&linkCode=sl1&tag=ricardoquecri-20&linkId=fba445097b2883ce6b78431a8d9c4797&language=pt_BR&ref_=as_li_ss_tl
@@ -65,3 +95,11 @@ Após a impressão, nem todo material vai ter sido utilizado, mas, como a resina
 [preco-funil-filtro]: https://www.amazon.com.br/inoxid%C3%A1vel-Sovol-filtro-l%C3%ADquido-impress%C3%A3o/dp/B094JD7T7V/ref=d_pd_day0_sccl_2_1/130-4263357-2179723?pd_rd_w=dHSOc&content-id=amzn1.sym.f8fbb395-09a0-46a4-a17c-8f7cd5155e6a&pf_rd_p=f8fbb395-09a0-46a4-a17c-8f7cd5155e6a&pf_rd_r=AMB5R0ERM2BANG7MQR4A&pd_rd_wg=yuXSf&pd_rd_r=b0f0ec54-da93-4b15-bb39-dc50a9956138&pd_rd_i=B094JD7T7V&psc=1
 [elegoo-saturn-specs]: https://all3dp.com/1/elegoo-saturn-review-the-specs/
 [sonic-mighty-specs]: https://all3dp.com/1/phrozen-sonic-mighty-4k-review-3d-printer-specs/
+[preco-cr-01]: https://br.banggood.com/Creality-3D-CR-SCAN-01-Portable-536x378mm-Scanning-Area-with-3D-Scanner-Basic-or-Standard-Version-Support-Multiple-Scan-Modes-or-Powerful-Model-Processing-Method-p-1834481.html?imageAb=1&p=QG080417015390201712&utm_campaign=17015390&utm_content=2635&akmClientCountry=BR&a=1673021136.5642&akmClientCountry=BR&cur_warehouse=CN
+[cr-01-specs]: https://all3dp.com/1/best-3d-scanner-diy-handheld-app-software/#creality-cr-scan-01
+[luz-estruct]: https://en.wikipedia.org/wiki/Structured-light_3D_scanner
+[preco-cr-01-2]: https://www.kabum.com.br/produto/275878/scanner-3d-creality-cr-scan-01-3d-upgrade-com-tripe-usb-10fps-branco-4008050016?gclid=EAIaIQobChMI_Mng0KSz_AIVkUFIAB0cCwmBEAQYASABEgIwxvD_BwE
+[preco-luva-1]: https://www.episonline.com.br/luva-de-latex-com-forro-em-verniz-silver-standard-amarela-volk-lv-verniz-st-am-volk-p3774?pp=/40.793/
+[preco-luva-2]: https://www.episonline.com.br/luva-flextactil-danny-preta-tricotada-com-banho-pu-p5591?pp=/40.793/
+[preco-luva-3]: https://www.episonline.com.br/luva-sensivolk-soft-nitrilico-sem-po-azul-volk-lv-sensivolk-soft-az-volk-p3979?pp=/40.793/
+[preco-mascara]: https://www.episonline.com.br/mascara-pff2-sem-valvula-pro-agro-delta-plus-1870-1-p4449
