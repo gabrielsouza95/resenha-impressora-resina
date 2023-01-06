@@ -1,6 +1,6 @@
-# ---
+---
 # [Halot One][halot-specs]
-# ---
+---
 ## Volume de impressão:
 132 X 82 X 160 mm (mesmo volume da Elegoo Mars 2 Pro)
 ## Fonte de luz:
@@ -14,9 +14,9 @@
 ## Preço:
 [RS1794,02 (05/01/2023)][preco-halot]
 
-# ---
+---
 # [AnyCubic Photon Mono X][photon-mono-x-specs]
-# ---
+---
 ## Volume de impressão:
 192 X 120 X 245 mm ()
 ## Fonte de luz:
@@ -30,9 +30,9 @@
 ## Preço:
 [RS3999,00 (05/01/2023)][preco-photon-mono-x]
 
-# ---
+---
 # Materiais Complementares
-# ---
+---
 
 ## Material para impressão
 [Resina Cinza 500g/1,18L][preco-resina]
