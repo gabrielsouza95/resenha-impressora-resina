@@ -92,6 +92,8 @@ up to 0.1 mm
 - [Anycubic Photon Mono X 2 R$4.299,00][preco2-photon-mono-x]
 - [Anycubic Wash and Cure Plus Machine R$1.699,00][preco1-wash-and-cure]
 - [Anycubic Photon Mono X 6K R$ 5.497,00][preco3-photon-mono-x]
+- [Anycubic Wash and Cure 2.0 R$ 897,00][preco2-wash-and-cure]
+- [Resina UV Anycubic Basic Preto 1kg R$ 220,00][preco1-resina]
 
 
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
@@ -117,3 +119,5 @@ up to 0.1 mm
 [preco2-photon-mono-x]: https://www.slim3d.com.br/produtos/anycubic-photon-mono-x-2/
 [preco3-photon-mono-x]: https://www.topink3d.com.br/impressora-3d-anycubic-photon-mono-x-6k?gclid=EAIaIQobChMIsPe1oKPM_AIVDNWRCh2I-QdmEAQYASABEgKVovD_BwE
 [preco1-wash-and-cure]: https://www.slim3d.com.br/produtos/anycubic-wash-and-cure-plus-machine/
+[preco1-resina]: https://www.topink3d.com.br/resina-uv-anycubic-impressora-3d-sla-dlp-405-basic-preto-1kg
+[preco2-wash-and-cure]: https://www.topink3d.com.br/maquina-de-lavagem-e-cura-anycubic-wash-amp-cure-2-0
