@@ -86,6 +86,16 @@ up to 0.1 mm
 - [Phrozen Sonic Mighty 4k][sonic-mighty-specs]
 - [Segunda opção de compra do CR-SCAN 01 sem base giratória R$4199,99 06/01/2023][preco-cr-01-2]
 
+---
+## Links de preço alternativos
+- [Anycubic Photon Mono X 6k R$5.699,00][preco1-photon-mono-x]
+- [Anycubic Photon Mono X 2 R$4.299,00][preco2-photon-mono-x]
+- [Anycubic Wash and Cure Plus Machine R$1.699,00][preco1-wash-and-cure]
+- [Anycubic Photon Mono X 6K R$ 5.497,00][preco3-photon-mono-x]
+-
+-
+-
+
 
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
 [preco-halot]: https://www.amazon.com.br/Impressora-Creality-RESINA-Halot-One-CL-60/dp/B09733ZZ13?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25NPO17M9AWC1&dchild=1&keywords=impressora+3d&qid=1631011144&s=computers&sprefix=Impressora+3,computers,337&sr=1-49&ufe=app_do:amzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147&linkCode=sl1&tag=ricardoquecri-20&linkId=fba445097b2883ce6b78431a8d9c4797&language=pt_BR&ref_=as_li_ss_tl
@@ -106,3 +116,7 @@ up to 0.1 mm
 [preco-luva-2]: https://www.episonline.com.br/luva-flextactil-danny-preta-tricotada-com-banho-pu-p5591?pp=/40.793/
 [preco-luva-3]: https://www.episonline.com.br/luva-sensivolk-soft-nitrilico-sem-po-azul-volk-lv-sensivolk-soft-az-volk-p3979?pp=/40.793/
 [preco-mascara]: https://www.episonline.com.br/mascara-pff2-sem-valvula-pro-agro-delta-plus-1870-1-p4449
+[preco1-photon-mono-x]: https://www.slim3d.com.br/produtos/anycubic-photon-mono-x-6k/
+[preco2-photon-mono-x]: https://www.slim3d.com.br/produtos/anycubic-photon-mono-x-2/
+[preco3-photon-mono-x]: https://www.topink3d.com.br/impressora-3d-anycubic-photon-mono-x-6k?gclid=EAIaIQobChMIsPe1oKPM_AIVDNWRCh2I-QdmEAQYASABEgKVovD_BwE
+[preco1-wash-and-cure]: https://www.slim3d.com.br/produtos/anycubic-wash-and-cure-plus-machine/
