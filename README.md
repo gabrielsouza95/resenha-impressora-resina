@@ -92,9 +92,6 @@ up to 0.1 mm
 - [Anycubic Photon Mono X 2 R$4.299,00][preco2-photon-mono-x]
 - [Anycubic Wash and Cure Plus Machine R$1.699,00][preco1-wash-and-cure]
 - [Anycubic Photon Mono X 6K R$ 5.497,00][preco3-photon-mono-x]
--
--
--
 
 
 [halot-specs]: https://all3dp.com/1/creality-halot-one-review-3d-printer-specs/
